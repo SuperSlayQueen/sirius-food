@@ -1,0 +1,352 @@
+[
+  {
+    "elapsed_utc": 1795445363.349661,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 100.54,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445364.3633447,
+    "api_cpu_percent": 15.4,
+    "api_rss_mb": 103.09,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445365.390533,
+    "api_cpu_percent": 40.9,
+    "api_rss_mb": 106.85,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445366.409876,
+    "api_cpu_percent": 7.7,
+    "api_rss_mb": 107.45,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445367.4283571,
+    "api_cpu_percent": 9.2,
+    "api_rss_mb": 108.11,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445368.4481647,
+    "api_cpu_percent": 10.6,
+    "api_rss_mb": 108.86,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445369.4766705,
+    "api_cpu_percent": 20.0,
+    "api_rss_mb": 109.0,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445370.5055275,
+    "api_cpu_percent": 10.6,
+    "api_rss_mb": 109.0,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445371.5409124,
+    "api_cpu_percent": 13.4,
+    "api_rss_mb": 109.0,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445372.5726178,
+    "api_cpu_percent": 21.2,
+    "api_rss_mb": 109.0,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445373.6004562,
+    "api_cpu_percent": 12.3,
+    "api_rss_mb": 109.0,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445374.6401641,
+    "api_cpu_percent": 9.0,
+    "api_rss_mb": 109.01,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445375.66736,
+    "api_cpu_percent": 6.1,
+    "api_rss_mb": 109.02,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445376.6892657,
+    "api_cpu_percent": 9.2,
+    "api_rss_mb": 109.05,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445377.7109437,
+    "api_cpu_percent": 9.2,
+    "api_rss_mb": 109.06,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445378.7318861,
+    "api_cpu_percent": 4.5,
+    "api_rss_mb": 108.78,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445379.757358,
+    "api_cpu_percent": 7.7,
+    "api_rss_mb": 108.84,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445380.780305,
+    "api_cpu_percent": 18.2,
+    "api_rss_mb": 108.86,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445381.8119543,
+    "api_cpu_percent": 16.7,
+    "api_rss_mb": 108.86,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445382.8357592,
+    "api_cpu_percent": 9.2,
+    "api_rss_mb": 108.88,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445383.862298,
+    "api_cpu_percent": 4.5,
+    "api_rss_mb": 108.88,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445384.8868997,
+    "api_cpu_percent": 9.1,
+    "api_rss_mb": 108.82,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445385.913606,
+    "api_cpu_percent": 9.2,
+    "api_rss_mb": 108.86,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445386.9407375,
+    "api_cpu_percent": 13.6,
+    "api_rss_mb": 108.97,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445387.9656994,
+    "api_cpu_percent": 22.7,
+    "api_rss_mb": 108.98,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445388.9848,
+    "api_cpu_percent": 16.9,
+    "api_rss_mb": 109.0,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445389.9957435,
+    "api_cpu_percent": 6.2,
+    "api_rss_mb": 109.0,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445391.0246472,
+    "api_cpu_percent": 16.7,
+    "api_rss_mb": 108.98,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445392.044718,
+    "api_cpu_percent": 9.2,
+    "api_rss_mb": 108.98,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445393.06716,
+    "api_cpu_percent": 20.0,
+    "api_rss_mb": 109.02,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445394.0949101,
+    "api_cpu_percent": 10.6,
+    "api_rss_mb": 109.03,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445395.112379,
+    "api_cpu_percent": 13.9,
+    "api_rss_mb": 109.05,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445396.1344573,
+    "api_cpu_percent": 3.0,
+    "api_rss_mb": 108.98,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445397.1688263,
+    "api_cpu_percent": 15.2,
+    "api_rss_mb": 109.02,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445398.2007499,
+    "api_cpu_percent": 16.7,
+    "api_rss_mb": 109.08,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445399.2332876,
+    "api_cpu_percent": 4.5,
+    "api_rss_mb": 109.09,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445400.248203,
+    "api_cpu_percent": 13.8,
+    "api_rss_mb": 109.24,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445401.269916,
+    "api_cpu_percent": 7.7,
+    "api_rss_mb": 109.25,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445402.2859902,
+    "api_cpu_percent": 12.3,
+    "api_rss_mb": 109.25,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445403.3126848,
+    "api_cpu_percent": 12.1,
+    "api_rss_mb": 109.25,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445404.3345659,
+    "api_cpu_percent": 10.8,
+    "api_rss_mb": 109.25,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445405.363845,
+    "api_cpu_percent": 9.1,
+    "api_rss_mb": 109.25,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445406.3830187,
+    "api_cpu_percent": 10.8,
+    "api_rss_mb": 109.25,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445407.4110556,
+    "api_cpu_percent": 16.7,
+    "api_rss_mb": 109.25,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445408.4577959,
+    "api_cpu_percent": 9.0,
+    "api_rss_mb": 109.25,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445409.4730532,
+    "api_cpu_percent": 4.6,
+    "api_rss_mb": 109.25,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445410.5096467,
+    "api_cpu_percent": 16.4,
+    "api_rss_mb": 109.09,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445411.5510404,
+    "api_cpu_percent": 13.6,
+    "api_rss_mb": 109.1,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445412.5986545,
+    "api_cpu_percent": 3.0,
+    "api_rss_mb": 109.1,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445413.6318192,
+    "api_cpu_percent": 9.1,
+    "api_rss_mb": 109.1,
+    "db_active": 0,
+    "db_lock_waits": 0
+  }
+]

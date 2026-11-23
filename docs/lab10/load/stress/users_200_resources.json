@@ -1,0 +1,289 @@
+[
+  {
+    "elapsed_utc": 1795445288.849026,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 100.57,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445289.8679626,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 100.57,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445290.909178,
+    "api_cpu_percent": 39.4,
+    "api_rss_mb": 104.62,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445291.9434123,
+    "api_cpu_percent": 116.6,
+    "api_rss_mb": 108.04,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445292.961371,
+    "api_cpu_percent": 119.7,
+    "api_rss_mb": 109.93,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445293.9832923,
+    "api_cpu_percent": 124.7,
+    "api_rss_mb": 111.54,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445295.001348,
+    "api_cpu_percent": 118.4,
+    "api_rss_mb": 113.41,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445296.023681,
+    "api_cpu_percent": 113.8,
+    "api_rss_mb": 115.21,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445297.0499144,
+    "api_cpu_percent": 109.1,
+    "api_rss_mb": 116.44,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445298.0723617,
+    "api_cpu_percent": 124.3,
+    "api_rss_mb": 117.71,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445299.0964973,
+    "api_cpu_percent": 115.3,
+    "api_rss_mb": 118.72,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445300.1285515,
+    "api_cpu_percent": 112.1,
+    "api_rss_mb": 120.12,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445301.1510434,
+    "api_cpu_percent": 106.1,
+    "api_rss_mb": 121.44,
+    "db_active": 2,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445302.1737874,
+    "api_cpu_percent": 110.7,
+    "api_rss_mb": 122.36,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445303.193269,
+    "api_cpu_percent": 100.0,
+    "api_rss_mb": 123.67,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445304.2389283,
+    "api_cpu_percent": 91.1,
+    "api_rss_mb": 125.05,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445305.2601511,
+    "api_cpu_percent": 95.4,
+    "api_rss_mb": 126.24,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445306.27784,
+    "api_cpu_percent": 90.8,
+    "api_rss_mb": 127.44,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445307.3191273,
+    "api_cpu_percent": 99.9,
+    "api_rss_mb": 129.11,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445308.341309,
+    "api_cpu_percent": 98.5,
+    "api_rss_mb": 131.01,
+    "db_active": 1,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445309.3712878,
+    "api_cpu_percent": 87.9,
+    "api_rss_mb": 132.3,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445310.3969958,
+    "api_cpu_percent": 89.2,
+    "api_rss_mb": 133.2,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445311.414524,
+    "api_cpu_percent": 106.1,
+    "api_rss_mb": 133.43,
+    "db_active": 1,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445312.4529436,
+    "api_cpu_percent": 19.7,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445313.4689834,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445314.4894054,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445315.5100214,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445316.5303175,
+    "api_cpu_percent": 1.5,
+    "api_rss_mb": 133.43,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445317.5538003,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 133.43,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445318.578837,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445319.6006489,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445320.6256201,
+    "api_cpu_percent": 1.5,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445321.6437662,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445322.6612608,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445323.682298,
+    "api_cpu_percent": 1.5,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445324.7203183,
+    "api_cpu_percent": 1.5,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445325.7540743,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445326.7801774,
+    "api_cpu_percent": 1.5,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445327.80516,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445328.8382447,
+    "api_cpu_percent": 0.0,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  },
+  {
+    "elapsed_utc": 1795445329.8659182,
+    "api_cpu_percent": 3.1,
+    "api_rss_mb": 133.46,
+    "db_active": 0,
+    "db_lock_waits": 0
+  }
+]
